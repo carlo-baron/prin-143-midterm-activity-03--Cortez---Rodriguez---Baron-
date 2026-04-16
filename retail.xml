@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<retail
+	xmlns="https://www.example.com"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="https://www.example.com retail.xsd"
+>
+	<store>
+		<type>Electronics</type>
+		<brand>TechWorld</brand>
+		<product>
+			<price currency="PHP">2999.99</price>
+			<stockCount>15</stockCount>
+		</product>
+		<product>
+			<price currency="PHP">15999.50</price>
+			<stockCount>7</stockCount>
+		</product>
+	</store>
+</retail>

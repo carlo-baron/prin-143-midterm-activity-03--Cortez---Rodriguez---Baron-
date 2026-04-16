@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movies
+	xmlns="https://www.example.com"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="https://www.example.com cinema.xsd"
+>
+	<film>
+		<title>Inception</title>
+		<genre>Sci-Fi</genre>
+		<director>Christopher Nolan</director>
+		<duration>PT2H28M</duration>
+		<contentRating>PG-13</contentRating>
+	</film>
+	<film>
+		<title>Spirited Away</title>
+		<genre>Animation</genre>
+		<director>Hayao Miyazaki</director>
+		<duration>PT2H5M</duration>
+		<contentRating>PG</contentRating>
+	</film>
+</movies>

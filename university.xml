@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<university
+	xmlns="https://www.example.com"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="https://www.example.com university.xsd"
+>
+	<departments>
+		<department>
+			<college>College of Engineering</college>
+			<studentCount>2</studentCount>
+			<students>
+				<name>Ana Cruz</name>
+				<studentId>ENG2024001</studentId>
+			</students>
+			<students>
+				<name>Mark Reyes</name>
+				<studentId>ENG2024002</studentId>
+			</students>
+		</department>
+		<department>
+			<college>College of Computer Science</college>
+			<studentCount>1</studentCount>
+			<students>
+				<name>John Dela Cruz</name>
+				<studentId>CS2024001</studentId>
+			</students>
+		</department>
+	</departments>
+</university>

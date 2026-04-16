@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<polititian
+	xmlns="https://www.example.com"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="https://www.example.com government.xsd"
+>
+	<name>Maria Santos</name>
+	<position>Mayor</position>
+	<age>45</age>
+	<platform>Infrastructure Development and Education Reform</platform>
+	<partylist>Progressive Party</partylist>
+</polititian>

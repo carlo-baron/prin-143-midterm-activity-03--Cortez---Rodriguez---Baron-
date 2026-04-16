@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bank
+	xmlns="https://www.example.com"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="https://www.example.com bank.xsd"
+>
+	<bankBranch>Main Branch</bankBranch>
+	<name>John Doe</name>
+	<accountType>Savings</accountType>
+	<maintain>500.00</maintain>
+	<accBalance>1500.75</accBalance>
+</bank>
